@@ -54,7 +54,7 @@
 	}
 
 	nav.menu-desktop li.selecionado{
-		font-weight: bold;
+		font-weight: normal;
 	}
 
 	nav.menu-desktop a{
