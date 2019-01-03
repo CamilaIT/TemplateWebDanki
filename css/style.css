@@ -2,5 +2,66 @@
 	margin:  0;
 	padding: 0;
 	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
 }
 
+/*Classes auxiliares: Classes que são utilizadas durante todo o projeto*/
+
+	.container{
+		max-width: 1288px;
+		margin:  0 auto;
+		padding: 0 2%;
+	}
+
+	.clear{clear: both;}
+
+
+
+
+
+/*Classes do site*/
+	
+	header{
+		padding: 8px 0;
+	}
+
+
+	.logo{
+		float: left;
+	}
+
+	.logo h2{
+		font-weight: normal;
+		font-size: 25px;
+	}
+
+
+	nav.menu-desktop{
+		float: right;
+	}
+
+
+	nav.menu-desktop ul{
+		position: relative;
+		top: 8px;
+	}
+
+
+	nav.menu-desktop li{
+		padding: 0 10px;
+		font-weight: lighter;
+		display: inline-block;
+	}
+
+	nav.menu-desktop li.selecionado{
+		font-weight: bold;
+	}
+
+	nav.menu-desktop a{
+		color: black;
+		text-decoration: none;
+	}
+
+	nav.menu-desktop a:hover{
+		color: green;
+	}
