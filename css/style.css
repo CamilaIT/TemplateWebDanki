@@ -20,7 +20,11 @@
 
 
 /*Classes do site*/
-	
+
+
+
+	/*Header*/
+
 	header{
 		padding: 8px 0;
 	}
@@ -55,6 +59,7 @@
 
 	nav.menu-desktop li.selecionado{
 		font-weight: normal;
+		color: blue;
 	}
 
 	nav.menu-desktop a{
@@ -65,3 +70,21 @@
 	nav.menu-desktop a:hover{
 		color: green;
 	}
+	
+
+
+
+	/*banner*/
+
+		section.main-bg{
+			width: 100%;
+			height: 400px;
+			background-image: url('../imagens/banner.jpg');
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-position: center;
+		}
+
+		
+
+	
