@@ -57,9 +57,9 @@
 		display: inline-block;
 	}
 
-	nav.menu-desktop li.selecionado{
+	nav.menu-desktop li.selecionado a{
 		font-weight: normal;
-		color: blue;
+		color: #0000cc;
 	}
 
 	nav.menu-desktop a{
@@ -78,7 +78,7 @@
 
 		section.main-bg{
 			width: 100%;
-			height: 400px;
+			height: 600px;
 			background-image: url('../imagens/banner.jpg');
 			background-repeat: no-repeat;
 			background-size: cover;
