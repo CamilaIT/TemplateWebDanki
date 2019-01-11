@@ -15,7 +15,14 @@
 
 	.clear{clear: both;}
 
+	.w50{
+		width: 50%;
+		float: left;
+	}
 
+	.center{
+		text-align: center;
+	}
 
 
 
@@ -130,7 +137,7 @@
 			color: #52aaa7;
 		}
 
-		.line-text div{
+	/*	.line-text div{
 			position: absolute;
 			left: 0;
 			top: 0;
@@ -138,7 +145,8 @@
 			height: 3px;
 			background-color: #52aaa7;
 		}
-
+		Efeito linha acima do texto
+	*/
 		.line-text h2{
 			font-weight: normal;
 			font-size: 35px;
@@ -166,15 +174,109 @@
 			font-weight: lighter;
 			font-size: 16px;
 			margin-bottom: 20px; 
-			padding: 0 10px; /*No exemplo da aula, esse padding é aplicado na 
+			padding: 0 10px; 
+
+			/*No exemplo da aula, o padding e margin-bottom é aplicado na 
 			classe .box-icones-single, isso "desabilitava" o width: 33.3%, ao aplicar aqui,
 			o efeito foi o mesmo, sem alterar o width. */
 		}
 
+	section.sobre-equipe{
+		padding: 30px 0;
+		background: #D4E1E0;
+	}
+
+	section.sobre-equipe > .container{
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.box-equipe{
+		margin-top: 15px;
+	}
+
+	.equipe{
+		width: 50%;
+	}
+
+	.foto{
+		display: inline-block;
+		width: 70px;
+		height: 70px;
+		border-radius: 50%;
+		background-size: 100% 100%;
+		position: relative;
+	}
+
+	.descricao-foto{
+		position: absolute;
+		padding: 0 5px;
+		margin-top: 10px;
+		display: inline-block;
+	}
+
+	.descricao-foto h3{
+		color: rgb(30, 30, 30);
+		font-weight: normal;
+		font-style: italic;
+	}
+
+	.descricao-foto p{
+		color: rgb(30, 30, 30);
+		font-weight: lighter;
+	}
 
 
+	.sobre{
+		width: 50%;
+	}
+
+	.sobre p{
+		color: black;
+		font-size: 15px;
+		margin-top: 20px;
+	}
+
+	section.inscricao{
+		background: #43958D;
+		padding: 20px 0;
+	}
+
+	h2.inscricao-text{
+		font-weight: normal;
+		color: white;
+		display: inline-block;
+	}
+		
+
+	.inscricao-form input[type=text]{
+		width: calc(100% - 300px);
+		height: 40px;
+		background: white;
+		border: 1px solid #ccc;
+		display: inline-block;
+	}
+
+	.inscricao-form input[type=submit]{
+		width: 120px;
+		height: 40px;
+		background: #587571;
+		cursor: pointer;
+		border: 0;
+		color: white;
+		font-weight: normal;
+		display: inline-block;
+	}
+
+
+	/* Mobile */
 	@media screen and (max-width: 768px){
-		.box-icones-single{
-			width: 100%;
-		}
+		
+		.box-icones-single{width: 100%;}
+
+		section.main-bg p{font-size: 17px; margin: 30px 80px;}
+		
+		.equipe{width: 100%;}
+		.sobre {width: 100%; margin-top: 60px;}
+		.w50   {width: 100%; margin-bottom: 20px;}
 	}
