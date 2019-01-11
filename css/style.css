@@ -209,10 +209,11 @@
 	}
 
 	.descricao-foto{
+		display: inline-block;
 		position: absolute;
 		padding: 0 5px;
 		margin-top: 10px;
-		display: inline-block;
+		
 	}
 
 	.descricao-foto h3{
