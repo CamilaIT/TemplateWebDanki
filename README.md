@@ -19,3 +19,17 @@ Sarah Manning
 
 Felix Dawkins
 <a href='https://www.freepik.com/free-photo/portrait-of-a-happy-young-man-with-laptop_2934937.htm'>Designed by Freepik</a>
+
+
+
+Seção Cards
+Utilizados imagens e textos:
+
+Warka Water
+http://www.warkawater.org/
+
+Aqualuz
+https://www.sdwforall.com.br/aqualuz
+
+Projeto Água
+http://www.projetoagua.org.br/o-projeto.asp
