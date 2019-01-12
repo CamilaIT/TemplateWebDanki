@@ -20,6 +20,12 @@
 		float: left;
 	}
 
+	.w33{
+		width: 33.33%;
+		float: left;
+
+	}
+
 	.center{
 		text-align: center;
 	}
@@ -41,9 +47,10 @@
 		float: left;
 	}
 
-	.logo h2{
-		font-weight: normal;
-		font-size: 25px;
+	.logo img{
+		width: 150px;
+		height: 90px%;
+		position: absolute;
 	}
 
 
@@ -60,22 +67,25 @@
 
 	nav.menu-desktop li{
 		padding: 0 10px;
+		padding-top: 45px;
+		padding-bottom: 15px;
 		font-weight: lighter;
 		display: inline-block;
 	}
 
 	nav.menu-desktop li.selecionado a{
 		font-weight: normal;
-		color: #0000cc;
 	}
 
 	nav.menu-desktop a{
-		color: black;
+		color: #608787;
 		text-decoration: none;
 	}
 
 	nav.menu-desktop a:hover{
-		color: green;
+		background: #2FFFEA;
+		color: #120a89;
+		border-radius: 5% 35% 5% 25% ;
 	}
 	
 
@@ -300,6 +310,42 @@
 	}
 
 
+	footer.footer1{
+		background: #43958D;
+		padding: 20px 0;
+		color: white;
+	}
+
+	footer.footer1 h2{
+		font-weight: normal;
+		font-size: 23px;
+	}
+
+	footer.footer1 p{
+		margin-top: 8px;
+		font-weight: lighter;
+	}
+
+	footer.footer1 a{
+		display: block;
+		color: white;
+		text-decoration: none;
+	}
+
+	div.group-icons a{
+		display: inline-block;
+		margin: 5px 10px;
+		font-size: 25px;
+	}
+
+	footer.footer2{
+		color: white;
+		background: #587571;
+		padding: 15px 0;
+	}
+
+
+
 
 
 	/* Mobile */
@@ -312,6 +358,7 @@
 		.equipe{width: 100%;}
 		.sobre {width: 100%; margin-top: 60px;}
 		.w50   {width: 100%; margin-bottom: 20px;}
+		.w33   {width: 100%; margin-bottom: 20px;}
 		.card-single{width: 100%; padding: 10px;}
 	}
 

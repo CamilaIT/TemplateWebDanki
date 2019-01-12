@@ -8,6 +8,8 @@ Para esse projeto será utilizado apenas HTML e CSS.
 
 Nele foram usados alguns materiais gratuitos, onde as fontes de download estão devidamente referênciadas abaixo:
 
+Logo: <a href='https://www.freepik.com/free-vector/collection-of-logos-and-branding-vector_3585455.htm'>Designed by Rawpixel.com</a>
+
 Banner página index.html
 <a href='https://pt.freeimages.com/photo/water-splash-1637149'>Free Water Splash Stock Photo</a>
 
