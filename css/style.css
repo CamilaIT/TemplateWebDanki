@@ -2,7 +2,7 @@
 	margin:  0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Sarabun', 'Open Sans', sans-serif, Incosolata;
 }
 
 /*Classes auxiliares: Classes que são utilizadas durante todo o projeto*/
@@ -124,13 +124,13 @@
 
 		section.main-bg h2{
 			color: #2FFFEA;
-			font-size: 40px;
+			font-size: 45px;
 			font-weight: normal;
 		}
 		
 		section.main-bg p{
 			color: white;
-			font-size: 17px;
+			font-size: 20px;
 			margin: 30px 150px;
 			text-align: left;
 		}
@@ -182,7 +182,7 @@
 		.box-icones-single p{
 			color: #646464;
 			font-weight: lighter;
-			font-size: 16px;
+			font-size: 18px;
 			margin-bottom: 20px; 
 			padding: 0 10px; 
 
@@ -244,7 +244,7 @@
 
 	.sobre p{
 		color: black;
-		font-size: 15px;
+		font-size: 16px;
 		margin-top: 20px;
 	}
 
@@ -324,6 +324,7 @@
 	footer.footer1 p{
 		margin-top: 8px;
 		font-weight: lighter;
+
 	}
 
 	footer.footer1 a{
@@ -338,10 +339,25 @@
 		font-size: 25px;
 	}
 
+	div.group-icons p{
+		display: inline-block;
+		font-size: 15px;
+	}
+
+
+
 	footer.footer2{
 		color: white;
 		background: #587571;
 		padding: 15px 0;
+	}
+
+	.fonte{
+		font-family: Incosolata;
+		font-size: 12px;
+		text-decoration: none;
+		color: #333;
+		font-weight: normal;
 	}
 
 
@@ -353,7 +369,7 @@
 		
 		.box-icones-single{width: 100%;}
 
-		section.main-bg p{font-size: 17px; margin: 30px 80px;}
+		section.main-bg p{font-size: 17px; margin: 30px 25px;}
 		
 		.equipe{width: 100%;}
 		.sobre {width: 100%; margin-top: 60px;}
