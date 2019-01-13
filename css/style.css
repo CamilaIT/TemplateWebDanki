@@ -271,7 +271,7 @@
 	.inscricao-form input[type=submit]{
 		width: 120px;
 		height: 40px;
-		background: #587571;
+		background: #587571; 
 		cursor: pointer;
 		border: 0;
 		color: white;
@@ -367,23 +367,34 @@
 	/* Mobile */
 	@media screen and (max-width: 768px){
 		
+
+
+
 		.box-icones-single{width: 100%;}
 
 		section.main-bg p{font-size: 17px; margin: 30px 25px; text-align: center;}
 		
 		.equipe{width: 100%;}
 		.sobre {width: 100%; margin-top: 60px;}
-		.w50   {width: 100%; margin-bottom: 20px;}
+		
+		.w50{width: 100%; margin-bottom: 20px;}
+		form.inscricao-form input[type=text]{display: block; width: 100%;}
+		form.inscricao-form input[type=submit]{display: block; margin-left: 150px;}
+		
 		.w33   {width: 100%; margin-bottom: 20px;}
 		.card-single{width: 100%; padding: 10px;}
 
-		div.fonte a{
+		/*div.fonte a{
 		font-family: Incosolata;
 		font-size: 12px;
 		text-decoration: none;
 		color: #333;
 		font-weight: normal;
-	}
+	}*/
+
+		
+		
+
 	}
 
 
