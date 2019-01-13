@@ -379,7 +379,7 @@
 		
 		.w50{width: 100%; margin-bottom: 20px;}
 		form.inscricao-form input[type=text]{display: block; width: 100%;}
-		form.inscricao-form input[type=submit]{display: block;}
+		form.inscricao-form input[type=submit]{display: block; color: red}
 		
 		.w33   {width: 100%; margin-bottom: 20px;}
 		.card-single{width: 100%; padding: 10px;}
