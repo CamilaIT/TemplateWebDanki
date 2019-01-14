@@ -403,8 +403,75 @@
 		font-weight: normal;
 	}
 
+	section.title-page{
+		position: relative;
+		padding: 30px;
+		width: 100%;
+		min-height: 180px;
+		background: cover; /*Cover: cobrir tudo*/
+		background-position: center;
+		background-repeat: no-repeat; //*Geralmente ao add o cover não é necessário. Boas Praticas*/
+	}
 
+	.overlay__title-page{
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 100;
+		width: 100%;
+		height: 100%;
+		background: rgba(0, 0, 0, 0.7);
+	}
 
+	section.title-page > .container{
+		position: relative;
+		z-index: 101;
+	}
+
+	section.title-page h2{
+		color: #2FFFEA;
+		font-size: 35px;
+		font-weight: normal;
+		margin-top: 10px;
+	}
+
+	/* Sobre */
+
+	section.title-page p{
+		color: white;
+		font-weight: lighter;
+		font-size: 18px;
+		margin-top: 15px;
+	}
+
+	section.sobre__descricao{
+		padding: 30px 0;
+	}
+
+	.sobre__single__descricao img{
+		max-width: 100%;
+		width: 50%;
+		float: left;
+	}
+
+	.sobre__single__descricao p{
+		float: left;
+		width: 50%;
+		padding: 15px 20px;
+		font-size: 16px;
+		font-weight: lighter;
+		line-height: 30px;
+	}
+
+	div.p__abaixo{
+		margin-top: 15px;
+	}
+
+	div.p__abaixo p{
+		margin-top: 8px;
+		width: 100%;
+		padding: 0;
+	}
 
 
 	/* Mobile */
@@ -428,18 +495,14 @@
 		.w33   {width: 100%; margin-bottom: 20px;}
 		.card-single{width: 100%; padding: 10px;}
 
-		/*div.fonte a{
-		font-family: Incosolata;
-		font-size: 12px;
-		text-decoration: none;
-		color: #333;
-		font-weight: normal;
-	}*/
+		.sobre__single__descricao img {width: 100%;}
+		.sobre__single__descricao p {width: 100%;}
+		div.p__abaixo p {padding: 10px 20px;}
 
 		
 		
-
-	}
+ 
+	} 
 
 
 	
