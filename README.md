@@ -23,9 +23,8 @@ Felix Dawkins
 <a href='https://www.freepik.com/free-photo/portrait-of-a-happy-young-man-with-laptop_2934937.htm'>Designed by Freepik</a>
 
 
-
 Seção Cards
-Utilizados imagens e textos:
+Utilizado imagens e textos dos sites abaixo:
 
 Warka Water
 http://www.warkawater.org/
@@ -36,3 +35,8 @@ http://www.projetoagua.org.br/o-projeto.asp
 Aqualuz
 https://www.sdwforall.com.br/aqualuz
 
+Banner página sobre.html
+<a href='https://www.freepik.com/free-photo/maldives-island_3660489.htm'>Designed by Lifeforstock</a>
+
+Foto menina página sobre.html
+<a href='https://www.freepik.com/free-photo/happy-girl-drinking-water_2554940.htm'>Designed by Freepik</a>
