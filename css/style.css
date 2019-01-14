@@ -407,7 +407,7 @@
 		position: relative;
 		padding: 30px;
 		width: 100%;
-		min-height: 150px;
+		min-height: 180px;
 		background: cover; /*Cover: cobrir tudo*/
 		background-position: center;
 		background-repeat: no-repeat; //*Geralmente ao add o cover não é necessário. Boas Praticas*/
