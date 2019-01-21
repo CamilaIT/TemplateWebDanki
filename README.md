@@ -40,3 +40,6 @@ Banner página sobre.html
 
 Foto menina página sobre.html
 <a href='https://www.freepik.com/free-photo/happy-girl-drinking-water_2554940.htm'>Designed by Freepik</a>
+
+(Efeito Parallax) Imagem oceano, página sobre.html
+<a href='https://unsplash.com/@griffinkeller'>Designed by Griffin Keller</a>
