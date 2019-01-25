@@ -81,17 +81,17 @@
 
 	nav.menu-mobile li{
 		padding: 8px 0;
-		border-bottom: 1px solid black;	
+		border-bottom: 1px dotted #00BFFF;	
 	}
 
 	nav.menu-mobile li.selecionado{
-		background: rgb(225, 225, 225);
+		background: #04B4AE;
 	}
 
 
 	nav.menu-mobile a{
 		display: block;
-		color: black;
+		color: #08298A;
 		text-decoration: none;
 	}
 
@@ -117,7 +117,7 @@
 	}
 
 	nav.menu-desktop li.selecionado a{
-		font-weight: normal;
+		font-weight: bold;
 	}
 
 	nav.menu-desktop a{
@@ -488,14 +488,14 @@
 	}
 
 
-	section.parallax h2.chamada-parallax{
+	section.parallax h2{
 		border: 1px solid #2FFFEA;
 		padding: 5px 40px;
 		color: #2FFFEA;
 		font-size: 25px;
-		display: inline-block;
-		
+		display: inline-block;	
 	}
+
 
 
 	section.parallax p{
