@@ -13,6 +13,7 @@ Logo: <a href='https://www.freepik.com/free-vector/collection-of-logos-and-brand
 Banner página index.html
 <a href='https://pt.freeimages.com/photo/water-splash-1637149'>Free Water Splash Stock Photo</a>
 
+Pessoas/Página Index
 Cosima Niehaus
 <a href='https://www.freepik.com/free-photo/african-american-woman-happy_2522653.htm'>Designed by Senivpetro</a>
 
@@ -20,7 +21,27 @@ Sarah Manning
 <a href='https://www.freepik.com/free-photo/beautiful-young-woman-showing-and-pointing-over-white-background_1364112.htm'>Designed by Nensuria</a>
 
 Felix Dawkins
-<a href='https://www.freepik.com/free-photo/portrait-of-a-happy-young-man-with-laptop_2934937.htm'>Designed by Freepik</a>
+<a href='https://www.freepik.com/free-photo/portrait-of-a-happy-young-man-with-laptop_2934937.htm'>
+Designed by Freepik</a>
+
+
+Pessoas/Página Sobre:
+
+Foto menina página sobre.html
+
+<a href='https://www.freepik.com/free-photo/happy-girl-drinking-water_2554940.htm'>Designed by Freepik</a>
+
+
+Siobhan Sadler
+<a href="https://www.freepik.com/free-photos-vectors/vintage">Vintage photo created by prostooleh - www.freepik.com</a>
+
+
+Scott Smith
+<a href="https://www.freepik.com/free-photos-vectors/background">Background photo created by senivpetro - www.freepik.com</a>
+
+
+Arthur Bell
+<a href="http://www.freepik.com">Designed by Benzoix / Freepik</a>
 
 
 Seção Cards
@@ -38,8 +59,9 @@ https://www.sdwforall.com.br/aqualuz
 Banner página sobre.html
 <a href='https://www.freepik.com/free-photo/maldives-island_3660489.htm'>Designed by Lifeforstock</a>
 
-Foto menina página sobre.html
-<a href='https://www.freepik.com/free-photo/happy-girl-drinking-water_2554940.htm'>Designed by Freepik</a>
+
 
 (Efeito Parallax) Imagem oceano, página sobre.html
 <a href='https://unsplash.com/@griffinkeller'>Designed by Griffin Keller</a>
+
+
