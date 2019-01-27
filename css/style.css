@@ -550,6 +550,39 @@
 		background-color: cyan;
 		background-size: 100% 100%;
 	}
+
+	section.sobre__final{
+		background-color: #E5F0F1;
+		border-top: solid 1px  #9FC9C5;
+		padding: 20px 0;
+	}
+
+	section.sobre__final p{
+		margin-top: 10px;
+		font-size: 17px;
+		font-weight: lighter;
+		line-height: 30px;
+
+	}
+
+	.card-title{
+		width: 80%;
+		margin-top: 10px;
+		position: relative;
+	}
+
+	.card-title img{
+		max-width: 100%;
+	}
+
+	.card-title h3{
+		position: absolute;
+		right: 10px;
+		bottom: 10px;
+		color: white;
+		font-size: 20px;
+		font-weight: normal;
+	}
 	
 
 	/* Mobile */
