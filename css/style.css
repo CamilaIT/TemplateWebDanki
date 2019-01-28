@@ -627,6 +627,23 @@
 		padding-left: 8px;
 	}
 
+	.formulario input[type=submit]{
+		width: 120px;
+		height: 40px;
+		background: #587571; 
+		cursor: pointer;
+		border: 0;
+		color: white;
+		font-weight: normal;
+		display: inline-block;
+	}
+
+
+
+
+
+
+
 	.formulario textarea{
 		width: 100%;
 		height: 120px;
