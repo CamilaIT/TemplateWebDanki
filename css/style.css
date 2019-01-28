@@ -692,9 +692,6 @@
 
 	@media screen and (max-width: 768px){
 
-	.formulario input[type=submit]{
-		display: block;
-	}	
 
 	.tags-form{
 		padding-left: 0;
@@ -732,6 +729,11 @@
 		margin-bottom: 15px;
 		padding: 10px 0;
 		width: 100%
+		}
+
+		.card-title img{
+			margin-left: 15%;
+		
 		}
 		
  
